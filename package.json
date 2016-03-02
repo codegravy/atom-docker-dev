@@ -1,0 +1,18 @@
+{
+  "name": "docker-dev-atom",
+  "main": "./lib/docker-dev-atom",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "docker-dev-atom:toggle"
+  },
+  "repository": "https://github.com/atom/docker-dev-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
